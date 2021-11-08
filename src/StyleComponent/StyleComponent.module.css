@@ -1,0 +1,11 @@
+.fontText{
+    font-size: 4rem;
+}
+.bg-color{
+    background-color: chartreuse;
+}
+.con_p{
+    font-weight: 900;
+    /* text-align: center; */
+    font-style: oblique;
+}
